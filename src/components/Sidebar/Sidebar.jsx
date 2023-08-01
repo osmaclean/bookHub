@@ -6,11 +6,11 @@ export default function Sidebar() {
   const [buttonSelected, setButtonSelected] = useState(null);
   return (
     <aside>
-      <div className="container__row sidebar__row">
+      <div className="container__row sidebar__row gap">
         <img src="./book_hub.png"></img>
         <h2>Book Hub</h2>
       </div>
-      <div className="container__row sidebar__row">
+      <div className="container__row sidebar__row gap">
         <img src="./profile.png"></img>
         <h1>Lucas Maclean</h1>
       </div>
