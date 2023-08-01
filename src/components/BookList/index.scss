@@ -1,0 +1,46 @@
+main {
+  width: 75vw;
+  height: 80vh;
+  color: #fff;
+  background: #161616;
+  padding: 0rem 0rem 2rem 2rem;
+  overflow: auto;
+}
+
+main img {
+  width: 150px;
+  margin: 2rem 0 0.5rem 0;
+}
+
+.book__section {
+  margin-top: 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.main__section__text {
+  margin-top: 1rem;
+  font-size: 40px;
+  font-style: normal;
+  font-family: Outfit;
+  font-weight: 700;
+  color: #fff;
+}
+
+.book__title {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Outfit;
+  font-weight: 700;
+  width: 50%;
+  color: #fff;
+  margin-bottom: 0.5rem;
+}
+
+.book__author {
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  font-family: Outfit;
+  color: #fff;
+}

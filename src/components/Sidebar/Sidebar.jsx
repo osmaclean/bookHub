@@ -12,7 +12,7 @@ export default function Sidebar() {
       </div>
       <div className="container__row sidebar__row">
         <img src="./profile.png"></img>
-        <h1>Júlio Moraes</h1>
+        <h1>Lucas Maclean</h1>
       </div>
       <div className="container__column">
         <Button
